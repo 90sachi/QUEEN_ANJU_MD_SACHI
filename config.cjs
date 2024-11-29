@@ -1,15 +1,15 @@
 module.exports = {
   "ALIVE_IMG": "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
-  "PREFIX": ".",
+  "PREFIX": ",",
   "AUTO_READ_STATUS": true,
   "MODE": "public",
   "BOT_NUMBER": "94717775628",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
-  "AUTO_VOICE": false,
+  "AUTO_VOICE": true,
   "AUTO_STICKER": false,
-  "AUTO_REPLY": true,
-  "AUTO_REACT": false,
+  "AUTO_REPLY": false,
+  "AUTO_REACT": true,
   "WELCOME": false,
   "ANTI_BAD": false,
   "ANTI_BOT": true,
@@ -23,5 +23,5 @@ module.exports = {
   "AUTO_RECORDING": true,
   "AUTO_NEWS": false,
   "OWNER_REACT": false,
-  "EMOJI": "🏷"
+  "EMOJI": "💗"
 };
